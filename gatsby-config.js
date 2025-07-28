@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `weddingInvitation`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://hoyoungparkme.github.io/wedding-invitation-hoyoung`,
   },
-  plugins: ["gatsby-plugin-styled-components"]
+  plugins: ["gatsby-plugin-styled-components"],
 };

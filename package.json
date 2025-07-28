@@ -2,17 +2,22 @@
   "name": "wedding-invitation",
   "version": "1.0.0",
   "private": true,
-  "description": "wedding-invitation",
-  "author": "S-jooyoung",
+  "description": "Gatsby 기반 클론 청첩장 - 박호영",
+  "author": "Hoyoung Park (박호영)",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "wedding",
+    "invitation",
+    "clone",
+    "박호영"
   ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gh-pages -d public"
   },
   "dependencies": {
     "antd": "^4.20.4",
